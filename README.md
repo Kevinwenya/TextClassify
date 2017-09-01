@@ -24,7 +24,8 @@
 
 ## 3、数据集获取
  ### 英文数据集：
-  http://www.cs.cornell.edu/people/pabo/movie-review-data/，使用和Kim Yoon论文中也使用的数据集：sentence polarity dataset    v1.0 (includes 5331 positive and 5331 negative processed sentences / snippets.) 
+  http://www.cs.cornell.edu/people/pabo/movie-review-data/，
+  使用和Kim Yoon论文中也使用的数据集：sentence polarity dataset v1.0 (includes 5331 positive and 5331 negative processed sentences / snippets.) 
   MR电影评论数据，其中包含10662条评论，正面和负面评论各一半。共包含18765个单词（vocab_size），最长的评论有59个单词，数据集保存在data目录下的rt-  polarity.neg和rt-poliarity.pos文件中。
  ### 中文数据集（sogou新闻）
 
